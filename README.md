@@ -77,9 +77,9 @@ I am a **Pre-final year B.Tech Computer Science** student at **Bennett Universit
   
   <br/><br/>
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tusharharsan&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=tusharharsan&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" height="150" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tusharharsan&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tusharharsan&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="150" alt="Top Languages" />
 
   <br/>
 
