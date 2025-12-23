@@ -61,6 +61,7 @@ I am a passionate developer from **New Delhi, India**, bridging the gap between 
 | :--- | :--- | :--- |
 | **[BrainWave](https://github.com/tusharharsan/BrainWave---Advance_React_Frontend_Website)** | A modern, futuristic landing page featuring advanced **React** animations and UI/UX best practices. | `React` `Tailwind` |
 | **[AIna-IntelliView](https://github.com/tusharharsan/AIna-IntelliView)** | An intelligent data visualization dashboard leveraging AI to uncover insights from complex datasets. | `JavaScript` `AI` |
+| **[Expense-Tracker-App](https://github.com/tusharharsan/Expense-Tracker-App)** | A robust financial tracking application that allows users to monitor income and expenses with visual charts. | `TypeScript` `React` |
 
 ---
 
@@ -69,16 +70,17 @@ I am a passionate developer from **New Delhi, India**, bridging the gap between 
 <div align="center">
 
 <a href="https://github.com/tusharharsan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tusharharsan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tusharharsan&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
 </a>
+
 <a href="https://github.com/tusharharsan">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharharsan&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharharsan&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
 </a>
 
 <br/>
 
 <a href="https://github.com/tusharharsan">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharharsan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharharsan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="languages graph" />
 </a>
 
 </div>
