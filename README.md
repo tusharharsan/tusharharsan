@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Tushar%20Harsan&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Tushar+Harsan;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
-
-<h1 align="center">Hi there, I'm Tushar Harsan! 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tushar-harsan-027aa6202/" target="_blank">
@@ -17,22 +14,32 @@
   </a>
 </p>
 
-<p align="center">
-  I am a passionate developer from <b>New Delhi, India</b>, dedicated to building scalable web applications and intelligent AI models. My work bridges the gap between complex backend logic and intuitive frontend design.
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,100:E94057&height=120&section=header" width="100%"/>
+</div>
 
 ---
 
-### 🛠️ **Tech Stack & Tools**
+### 👨‍💻 **About Me**
+
+I am a passionate developer from **New Delhi, India**, bridging the gap between **Complex AI Models** and **Intuitive Web Interfaces**.
+
+* 🔭 I’m currently working on **Automated Vision Pipelines (YOLO/SAM)**.
+* 🌱 I’m deep diving into **Generative AI & High-Performance Computing**.
+* ⚡ **Fun fact**: I love turning complex data into visual stories.
+
+---
+
+### 🛠️ **Tech Stack**
 
 <div align="center">
 
 | **Frontend** | **Backend & AI** | **Languages** |
 | :---: | :---: | :---: |
 | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
 
 </div>
 
@@ -40,47 +47,44 @@
 
 ### 📂 **Featured Projects**
 
-Here are some of the key projects I've been working on:
-
-#### 🤖 **Artificial Intelligence & Machine Learning**
+#### 🤖 **AI & Computer Vision**
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[RAG-MODEL-FOR-CHEMISTRY-NOTES](https://github.com/tusharharsan/RAG-MODEL-FOR-CHEMISTRY-NOTES)** | A **Retrieval-Augmented Generation (RAG)** system that ingests chemistry notes and provides accurate, context-aware answers to student queries. | `Python` `LLM` `LangChain` |
-| **[NSFW-content-Detection](https://github.com/tusharharsan/NSFW-content-Detection)** | A computer vision model designed to automatically detect and filter Not Safe For Work (NSFW) content to ensure platform safety. | `Python` `Deep Learning` |
-| **[AIna-IntelliView](https://github.com/tusharharsan/AIna-IntelliView)** | An intelligent visualization tool that leverages AI to analyze data patterns and present them in an intuitive interface. | `JavaScript` `AI Integration` |
+| **[Create-Yollo-Dataset-Using-Sam-3](https://github.com/tusharharsan/Create-Yollo-Dataset-Using-Sam-3)** | 🚀 **New!** An automated pipeline utilizing the **Segment Anything Model (SAM)** to generate high-quality **YOLO datasets** for object detection tasks. | `Python` `SAM` `YOLO` |
+| **[RAG-MODEL-FOR-CHEMISTRY-NOTES](https://github.com/tusharharsan/RAG-MODEL-FOR-CHEMISTRY-NOTES)** | A **Retrieval-Augmented Generation** system that ingests chemistry notes and answers student queries with high accuracy. | `Python` `LLM` `LangChain` |
+| **[NSFW-content-Detection](https://github.com/tusharharsan/NSFW-content-Detection)** | A Deep Learning model designed to detect and filter NSFW content to ensure safer digital environments. | `TensorFlow` `Deep Learning` |
 
-#### 🌐 **Web Development & Tools**
+#### 🌐 **Web Applications**
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[BrainWave](https://github.com/tusharharsan/BrainWave---Advance_React_Frontend_Website)** | A modern, high-performance React frontend featuring advanced animations and a futuristic UI design. | `React` `Tailwind` `Vite` |
-| **[Expense-Tracker-App](https://github.com/tusharharsan/Expense-Tracker-App)** | A robust financial tracking application that allows users to monitor income and expenses with visual charts. | `TypeScript` `React` |
-| **[Advance-Website-Scraper](https://github.com/tusharharsan/Advance-Website-Scraper--Demo-Script-Generator)** | A powerful automation tool for scraping complex websites and generating demo scripts for data extraction. | `JavaScript` `Puppeteer` |
-
-<p align="center">
-  <a href="https://github.com/tusharharsan?tab=repositories">
-    <b>View All My Repositories ➡️</b>
-  </a>
-</p>
+| **[BrainWave](https://github.com/tusharharsan/BrainWave---Advance_React_Frontend_Website)** | A modern, futuristic landing page featuring advanced **React** animations and UI/UX best practices. | `React` `Tailwind` |
+| **[AIna-IntelliView](https://github.com/tusharharsan/AIna-IntelliView)** | An intelligent data visualization dashboard leveraging AI to uncover insights from complex datasets. | `JavaScript` `AI` |
 
 ---
 
-### 📊 **GitHub Statistics**
+### 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharharsan&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharharsan&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages" />
+
+<a href="https://github.com/tusharharsan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tusharharsan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/tusharharsan">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharharsan&theme=tokyonight&hide_border=true"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/tusharharsan">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharharsan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</a>
+
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharharsan&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
-
----
-
 <p align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <img src="https://komarev.com/ghpvc/?username=tusharharsan&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
