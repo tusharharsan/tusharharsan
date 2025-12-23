@@ -83,7 +83,7 @@ I am a **Pre-final year B.Tech Computer Science** student at **Bennett Universit
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=tusharharsan&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=tusharharsan&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
