@@ -71,24 +71,19 @@ I am a **Pre-final year B.Tech Computer Science** student at **Bennett Universit
 
 <div align="center">
 
-  <a href="https://leetcode.com/TusharHarsan/">
-    <img src="https://leetcard.jacoblin.cool/TusharHarsan?theme=unicorn&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/TusharHarsan/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/TusharHarsan?theme=midnight-purple&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
   
   <br/><br/>
 
-  <a href="https://github.com/tusharharsan">
-    <img src="https://github-readme-stats.vercel.app/api?username=tusharharsan&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" height="150" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/tusharharsan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharharsan&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="150" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=tusharharsan&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" height="150" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharharsan&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="150" alt="Top Languages" />
 
   <br/>
 
-  <a href="https://github.com/tusharharsan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharharsan&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharharsan&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
