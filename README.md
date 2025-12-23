@@ -75,7 +75,7 @@ I am a **Pre-final year B.Tech Computer Science** student at **Bennett Universit
     <img src="https://leetcard.jacoblin.cool/TusharHarsan?theme=midnight-purple&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
   
-  <br/><br/>
+  <br/>
 
   <img src="https://github-readme-stats-fast.vercel.app/api?username=tusharharsan&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" height="150" alt="GitHub Stats" />
   
