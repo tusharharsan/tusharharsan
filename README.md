@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Tushar+Harsan;DS%2FAlgo+Master+(700%2B+LC);Full+Stack+%2B+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Tushar+Harsan;Strong+Java+Player+%E2%98%95;AI+Model+Training+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -22,12 +22,13 @@
 
 ### 👨‍💻 **About Me**
 
-I am a **Pre-final year B.Tech Computer Science** student at **Bennett University** (CGPA **9.1**), driven by a passion for solving complex problems. My journey involves bridging the gap between **High-Performance Backend Systems** and **Intelligent AI Models**.
+I am a **Pre-final year B.Tech Computer Science** student at **Bennett University** (CGPA **9.1**), driven by a passion for solving complex problems. 
 
-* 💼 **Experience:** Former **AI Engineer Intern** at *Computing Mind Technology*, where I built automated video analysis tools and resume parsing engines.
+* ☕ **Java Player:** I specialize in **Java** and **Spring Boot**, building robust, high-performance backend systems.
+* 🧠 **AI & Deep Learning:** I am deeply enthusiastic about **Model Training**, **Fine-Tuning**, and building custom **Deep Learning architectures**.
+* 💼 **Experience:** Former **AI Engineer Intern** at *Computing Mind Technology*, where I built automated video analysis tools.
 * 🚀 **Leadership:** Currently serving as the **GFG Tech Lead** and **GDG Tech Member** (2024-2025).
-* 🧠 **Problem Solving:** I have mastered **Data Structures & Algorithms**, solving over **700+ questions** on LeetCode.
-* 🏆 **Achievements:** Winner of **Bennovate Ideathon** and **GFG Hackfest**; Secured 4th rank in Galactic Escape.
+* 🏆 **Problem Solving:** Solved **700+ questions** on LeetCode.
 
 ---
 
@@ -38,8 +39,8 @@ I am a **Pre-final year B.Tech Computer Science** student at **Bennett Universit
 | **Core Languages** | **Frontend & Frameworks** | **Backend & Databases** | **AI & Machine Learning** |
 | :---: | :---: | :---: | :---: |
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) |
-| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) |
 
 </div>
@@ -77,10 +78,10 @@ I am a **Pre-final year B.Tech Computer Science** student at **Bennett Universit
 <br/><br/>
 
 <a href="https://github.com/tusharharsan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharharsan&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="tusharharsan's stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tusharharsan&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" height="150" />
 </a>
 <a href="https://github.com/tusharharsan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharharsan&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharharsan&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top Languages" height="150" />
 </a>
 
 <br/>
